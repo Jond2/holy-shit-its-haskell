@@ -98,7 +98,7 @@ Lastly, for the intro, libraries are your friends; because you don't have any ot
 
 <hr />
 
-*Inspired by: [http://motherfuckingwebsite.com/](http://motherfuckingwebsite.com/) and [https://bettermotherfuckingwebsite.com/](https://bettermotherfuckingwebsite.com/)*
+*Inspired by: [http://motherfuckingwebsite.com/](http://motherfuckingwebsite.com/) and [http://bettermotherfuckingwebsite.com/](http://bettermotherfuckingwebsite.com/)*
 
 ### Holy Shit, Chapter One
 
